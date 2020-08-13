@@ -7,7 +7,9 @@ The example of the book the layout was not responsive, so I decided to customize
 
 ![alt text](https://github.com/ragazziana/greetingproject/blob/master/images/responsive-screenshot.png?raw=true "Javascript")
 
-[![Watch the Video](https://github.com/ragazziana/greetingproject/blob/master/images/video.png?raw=true)](https://vimeo.com/user113205936 "Watch the Video")
+Watch the Video!
+
+[![Watch the Video](https://github.com/ragazziana/greetingproject/blob/master/images/video2.png?raw=true)](https://vimeo.com/user113205936 "Watch the Video")
 
 This is the example of the book.
 
