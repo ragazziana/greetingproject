@@ -3,7 +3,7 @@
 The main goal with this exercise is to learn how HTML, CSS e JavaScript fits together.
 This example adds a greeting to an HTML page. The greeting changes depending on the time of day.
 
-The example of the book the layout was not responsive, so I decided to customize the, make responsive using media queries, and of course, make look more with my style of design. 
+The example of the book the layout was not responsive, so I decided to customize, make responsive using media queries, and of course, make look more with my style of design. 
 
 ![alt text](https://github.com/ragazziana/greetingproject/blob/master/images/responsive-screenshot.png?raw=true "Javascript")
 
@@ -11,7 +11,7 @@ Watch the Video!
 
 [![Watch the Video](https://github.com/ragazziana/greetingproject/blob/master/images/video2.png?raw=true)](https://vimeo.com/user113205936 "Watch the Video")
 
-This is the example of the book.
+This was the example of the book.
 
 ![alt text](https://github.com/ragazziana/greetingproject/blob/master/images/book-example.png?raw=true "Javascript")
 
